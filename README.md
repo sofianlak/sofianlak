@@ -1,4 +1,7 @@
 # Bonjour 👋
 
-I'm **Sofian**, a DevOps Engineer since 2020 ☁️.
-I love open source 🌱, cycling 🚴‍♂️ and apple juice 🧃.
+I'm **Sofian**, a DevOps Engineer since 2020.
+
+I love open source 🌱, cycling 🚴‍♂️ and apple juice 🧃
+
+Check out my blog : [sofianlak.fr](https://sofianlak.fr)
