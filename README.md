@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-I'm **Sofian**, a DevOps Engineer since 2020.
+I'm **Sofian**, a Platform Engineer.
 
 I love open source 🌱, cycling 🚴‍♂️ and slow travel 🐢 as a way to meet people and discover new ideas from all around the world.
 
